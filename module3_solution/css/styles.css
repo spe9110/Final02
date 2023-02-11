@@ -1,0 +1,20 @@
+.nav-list {
+    background-color: lightblue;
+    width: 100%;
+}
+
+.page-heading {
+    font-size: 1.8em;
+}
+
+.grid {
+    margin: 20px 20px 20px 20px;
+    background-color: grey;
+    color: white;
+    height: 1250px;
+}
+
+.grid-title {
+    text-align: center;
+    font-size: 1.4em
+}
